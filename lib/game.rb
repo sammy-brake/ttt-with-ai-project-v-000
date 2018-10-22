@@ -97,7 +97,7 @@ def play_again
   puts "Would you like to play again? Enter y to begin a new game and n to exit."
   answer = gets.strip
   if answer == "y"
-    self.play 
+    play 
     self.play_again
   elsif 
   answer == "n"

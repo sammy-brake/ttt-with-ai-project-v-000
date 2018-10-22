@@ -28,9 +28,9 @@ board.display
 
 game.play
 
-puts "Would you like to play again?"
+game.play_again 
 
-response = gets.strip
+
 
 
 

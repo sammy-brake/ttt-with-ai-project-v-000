@@ -93,17 +93,5 @@ else
 end
 end
 
-def play_again 
-  puts "Would you like to play again? Enter y to begin a new game and n to exit."
-  answer = gets.strip
-  if answer == "y"
-    play 
-    self.play_again
-  elsif 
-  answer == "n"
-     puts "Thank you for playing!"
-   else 
-     "Enter y to begin a new game and n to exit."
-   end 
-end 
+
 end 

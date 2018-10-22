@@ -104,5 +104,6 @@ def play_again
      puts "Thank you for playing!"
    else 
      "Enter y to begin a new game and n to exit."
+   end 
 end 
 end 

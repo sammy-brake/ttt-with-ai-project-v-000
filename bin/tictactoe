@@ -28,5 +28,7 @@ board.display
 
 game.play
 
+puts "Would you like to play again?"
+
 
 
